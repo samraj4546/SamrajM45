@@ -11,11 +11,13 @@ KGiSL Institute of Technology, Coimbatore
 🚀 Skills
 
 - Python
+- REACT JS
+- FAST API
 - SQL
-- Power BI
 - HTML
 - CSS
 - JavaScript
+- NODE JS 
 - Data Analysis
 - Machine Learning Basics
 
@@ -23,14 +25,13 @@ KGiSL Institute of Technology, Coimbatore
 
 📚 Education
 
-Bachelor of Information Technology  
-KGiSL Institute of Technology  
-CGPA: 7.5  
-2021 – 2025
+• Bachelor of Information Technology  
+- KGiSL Institute of Technology, 2021 – 2025
+- CGPA: 7.5 
 
-Higher Secondary School  
-Metro Matric Hr Sec School, Mettupalayam  
-Percentage: 80%
+• Higher Secondary School  
+- Metro Matric Hr Sec School, Mettupalayam
+- Percentage: 80%
 
 ---
 
@@ -47,7 +48,7 @@ Python, Flask, NLP
 • House Price Prediction
 Machine learning project that predicts house prices using regression models.
 
-Technologies:
+• Technologies:
 Python, Pandas, Scikit-learn
 
 ---
